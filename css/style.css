@@ -1,8 +1,9 @@
 .amarillo{
-	background-color: yellow;
+	background-color: #00FFFF;
 }
 .rojo{
-	background-color: red;
+	background-color: #8A0868;
+	color: white;
 }
 div{
 	height: 25%;
@@ -20,4 +21,15 @@ div{
 }
 .mayus{
 	text-transform: uppercase;
+}
+
+body{
+	background-image: url("http://static.batanga.com/sites/default/files/styles/full/public/tech.batanga.com/files/Wallpapers-para-Retina-Display2.png");
+	background-size: 100%;
+}
+h1{
+	color: #DF013A;
+	text-align: center;
+	font-family: Apple Chancery;
+	font-size: 500%;
 }
